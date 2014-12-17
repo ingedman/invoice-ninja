@@ -87,7 +87,6 @@ class ConstantsSeeder extends Seeder
         Industry::create(array('name' => 'Materias Primas y Productos Químicos'));
         Industry::create(array('name' => 'Comunicaciones'));
         Industry::create(array('name' => 'Computadoras y Alta Tecnologia'));
-        Industry::create(array('name' => 'Defensa'));
         Industry::create(array('name' => 'Energía'));
         Industry::create(array('name' => 'Entretenimiento'));
         Industry::create(array('name' => 'Gobierno'));
